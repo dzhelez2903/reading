@@ -8,6 +8,7 @@
   text-align: center;
   border: 2px solid black;
   cursor: pointer;
+  background-color: lightblue;
 }
 .wrapper .container {
   width: 75%;
@@ -18,6 +19,7 @@
   margin: 0 auto;
   border: 2px solid black;
   cursor: pointer;
+  background-color: lightcyan;
 }
 .wrapper .container .block {
   width: 75%;
@@ -28,5 +30,6 @@
   margin: 0 auto;
   border: 2px solid black;
   cursor: pointer;
+  background-color: lightcoral;
 }
 /*# sourceMappingURL=style.css.map */
