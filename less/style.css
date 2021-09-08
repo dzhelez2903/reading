@@ -7,6 +7,7 @@
   margin: 0 auto;
   text-align: center;
   border: 2px solid black;
+  cursor: pointer;
 }
 .wrapper .container {
   width: 75%;
@@ -16,8 +17,9 @@
   align-items: center;
   margin: 0 auto;
   border: 2px solid black;
+  cursor: pointer;
 }
-.wrapper .block {
+.wrapper .container .block {
   width: 75%;
   height: 200px;
   display: flex;
@@ -25,5 +27,6 @@
   align-items: center;
   margin: 0 auto;
   border: 2px solid black;
+  cursor: pointer;
 }
 /*# sourceMappingURL=style.css.map */
